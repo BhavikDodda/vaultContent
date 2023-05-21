@@ -5,4 +5,4 @@ title: "hello"
 
 hello world
 
-[[Hellos/Hello 3|Hello 3]]
+[[hola/Hello 3|Hello 3]]
